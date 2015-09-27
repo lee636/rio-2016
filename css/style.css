@@ -1,0 +1,54 @@
+.container {
+	font:helvetica;
+	background-color: #fedf00;
+}
+.box1{
+		height: 10px;
+		background-color:#009b3a;
+		border-radius: 10px;
+	}
+.head {font-size: 60px;
+		color:white;
+		font-weight: bolder;
+		margin-top: 30px;
+	}
+.box3 { width: 70px;
+		height: 70px;
+		background-color:#002776;
+		border-radius: 20px;
+		border: 3px solid white
+	}
+.box2{
+		height: 20px;
+		background-color:#009b3a;
+		border-radius: 10px;
+		margin-bottom: 50px
+}
+.dateopening {
+	font-size: 30px;
+	font-weight:bolder;
+	color: #002776;
+}
+.dateclosing {
+	font-size: 30px;
+	font-weight:bolder;
+	color: #009b3a;
+}
+.date {
+	font-size: 30px;
+	font-weight:bold;
+	color: white;
+}
+.list{
+	font-size: 30px;
+	font-weight:bold;
+	color: white;
+	margin-right:100px;
+}
+.sport{font-size: 15px;
+color:white;}
+.green{font-size: 25px;
+color:#009b3a;}
+.blue{font-size: 25px;
+color:#002776;}
+
